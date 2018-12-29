@@ -1,2 +1,2 @@
 # Titanic
-The notebook from Kaggle competition "Titanic: Machine Learning from Disaster". This version uses Keras for predictions using a simlple NN.
+Notebook from Kaggle competition "Titanic: Machine Learning from Disaster". This version uses Keras for predictions using a simlple NN.
